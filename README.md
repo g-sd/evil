@@ -21,7 +21,7 @@
 
 # Credits
 
-### Our Contributors
+### Contributors
 
 ### Dependencies
 **[OpenGL][open-gl], [GLEW][glew]**
