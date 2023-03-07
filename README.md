@@ -11,6 +11,8 @@
 <a href="" >Contributing</a>
 </h3>
 
+![][license-badge]
+
 </div>
 
 ---
@@ -19,11 +21,7 @@
 
 # Credits
 
-### Our Communities
-
 ### Our Socials
-
-### Our Maintainers
 
 ### Our Contributors
 
@@ -31,3 +29,5 @@
 [sumo2]: https://sumosushionline.com/images/logo.png
 [sumo]: https://seeklogo.com/images/S/sumo-logo-B3330E6C5F-seeklogo.com.png
 [g-sd]: https://avatars.githubusercontent.com/u/96849112?s=400&u=5f03427817576fb8a23c9d59e34c1a5c34dbddd6&v=4
+
+[license-badge]: https://img.shields.io/github/license/g-sd/sumo?style=flat-square
