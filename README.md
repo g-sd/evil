@@ -22,6 +22,9 @@
 # Credits
 
 ### Contributors
+<a href="https://github.com/g-sd/evil/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=g-sd/evil" />
+</a>
 
 ### Libraries
 **[OpenGL][open-gl], [GLEW][glew]**
