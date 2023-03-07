@@ -1,14 +1,16 @@
+
+
 <div
-  align="center"
+  align=center
+  items=center
 >
 
-<img height=200 src="https://sumofiber.com/wp-content/uploads/2022/11/Untitled-1-1-1024x512.png" />
+![][evil]
+
 <h3>
-<a href="" >Community</a>
-<span> • </span>
 <a href="" >Documentation</a>
 <span> • </span>
-<a href="" >Contributing</a>
+<a href="" >Contribute</a>
 </h3>
 
 ![][license-badge]
@@ -17,17 +19,17 @@
 
 ---
 
-# Why SUMO?
-
 # Credits
-
-### Our Socials
 
 ### Our Contributors
 
-[sumo3]: https://sumofiber.com/wp-content/uploads/2022/11/Untitled-1-1-1024x512.png
-[sumo2]: https://sumosushionline.com/images/logo.png
-[sumo]: https://seeklogo.com/images/S/sumo-logo-B3330E6C5F-seeklogo.com.png
+### Dependencies
+**[OpenGL][open-gl], [GLEW][glew]**
+
+[evil]: https://static.wixstatic.com/media/dc3006_1ec6dff8d4d247c1ba488031a891333e~mv2.png/v1/fill/w_350,h_200,al_c,lg_1,q_90,enc_auto/logo.png
 [g-sd]: https://avatars.githubusercontent.com/u/96849112?s=400&u=5f03427817576fb8a23c9d59e34c1a5c34dbddd6&v=4
 
 [license-badge]: https://img.shields.io/github/license/g-sd/sumo?style=flat-square
+
+[open-gl]: https://www.opengl.org/
+[glew]: https://glew.sourceforge.net/
