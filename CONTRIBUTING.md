@@ -1,4 +1,4 @@
-# Contributing to the SUMO Engine
+# Contributing to EE
 
 ## Before Contributing
 > Before contributing please make sure you have completed the following...
@@ -14,7 +14,6 @@
 ### Installation
 ```bash
 # clone the project
-git clone https://github.com/g-sd/sumo.git
 ```
 ### Dependencies
 
@@ -35,4 +34,4 @@ git clone https://github.com/g-sd/sumo.git
 ### A rejected pull request.
 
 ## Disclaimers
-> By contributing to SUMO, you agree that your contributions will be licensed under the LICENSE file.
+> By contributing to Evil Engine, you agree that your contributions will be licensed under the current [LICENSE](/LICENSE).
