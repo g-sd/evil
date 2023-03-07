@@ -23,7 +23,7 @@
 
 ### Contributors
 
-### Dependencies
+### Libraries
 **[OpenGL][open-gl], [GLEW][glew]**
 
 [evil]: https://static.wixstatic.com/media/dc3006_1ec6dff8d4d247c1ba488031a891333e~mv2.png/v1/fill/w_350,h_200,al_c,lg_1,q_90,enc_auto/logo.png
